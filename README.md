@@ -37,12 +37,12 @@ I'm a versatile photographer with expertise in architectural photography, landsc
 
 ### Recent Work
 
-| Collection | Description | View |
-|------------|-------------|------|
-| **Architectural** | Capturing the beauty of buildings, structures, and urban design | [View Gallery](#) |
-| **Landscapes** | Natural environments and scenic outdoor photography | [View Gallery](#) |
-| **Portraits** | Boudoir, fitness/physique, and lifestyle portrait photography | [View Gallery](#) |
-| **Wildlife** | Animals in their natural habitats and behavioral captures | [View Gallery](#) |
+| Collection | Description | 
+|------------|-------------|
+| **Architectural** | Capturing the beauty of buildings, structures, and urban design | 
+| **Landscapes** | Natural environments and scenic outdoor photography | 
+| **Portraits** | Boudoir, fitness/physique, and lifestyle portrait photography | 
+| **Wildlife** | Animals in their natural habitats and behavioral captures |
 
 ### Photography Equipment
 - **Cameras**: Canon 5D Mark IV, Canon R7
