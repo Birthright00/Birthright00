@@ -68,7 +68,7 @@ I'm a versatile photographer with expertise in architectural photography, landsc
 - **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/edward-tang-b33b581a9/)
 - **Portfolio Website**: [To Be Updated!](#)
 - **Photography Instagram**: [My Photography Instagram](https://www.instagram.com/ed.lenscraft/?hl=en)
-- **Email**: [tang.zj.edward@gmail.com](mailto:tang.zj.edward@gmail.com)
+- **Email**: [Press here to contact me!](mailto:tang.zj.edward@gmail.com)
 - **Photography Portfolio**: [To Be Updated!](#)
 
 ---
