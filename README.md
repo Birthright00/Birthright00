@@ -80,18 +80,6 @@ I'm a versatile photographer with expertise in architectural photography, landsc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Birthright00&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Birthright00&layout=compact&theme=dark)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/edward-tang-b33b581a9/
