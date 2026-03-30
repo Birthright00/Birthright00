@@ -1,24 +1,24 @@
 # Edward Tang — AI Systems Builder & Creative Technologist
 
-Welcome to my GitHub.  
-I build **AI-powered systems, full-stack platforms, and real-world applications**, while also running ventures and creating visual work through photography.
+Hey! Welcome to my GitHub.
+I build AI-powered systems, full-stack platforms, and real-world applications. When I'm not coding, I'm running a couple ventures and shooting photography.
 
 ---
 
 ## 🚀 About Me
 
-I’m a **Design & AI graduate from SUTD** and a **builder focused on turning ideas into deployed systems**.
+I'm a Design & AI graduate from SUTD who loves turning ideas into things people can actually use.
 
-My work sits at the intersection of:
-- **AI / Machine Learning**
-- **Full-stack product development**
-- **Automation & real-world workflows**
+What I work on:
+- **AI & Machine Learning** — building systems that think and learn
+- **Full-stack development** — everything from the frontend to the backend
+- **Automation & workflows** — making repetitive stuff disappear
 
 Beyond coding, I run:
-- **Inner Light** — modelling & events startup  
-- **Ed Studio** — photography & creative direction  
+- **Inner Light** — modelling & events startup
+- **Ed Studio** — photography & creative direction
 
-I care about one thing:  
+Here's what drives me:
 👉 *Building systems that actually get used.*
 
 ---
