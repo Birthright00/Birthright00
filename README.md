@@ -1,12 +1,35 @@
-# Edward's Portfolio
+# Edward Tang — AI Systems Builder & Creative Technologist
 
-Welcome to my GitHub profile! I'm a developer and photographer passionate about creating both digital solutions and capturing visual stories.
+Welcome to my GitHub.  
+I build **AI-powered systems, full-stack platforms, and real-world applications**, while also running ventures and creating visual work through photography.
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm a software developer with a passion for clean code and creative problem-solving. When I'm not coding, you'll find me behind a camera capturing the world through my lens. I believe that both programming and photography require attention to detail, patience, and a keen eye for composition.
+I’m a **Design & AI graduate from SUTD** and a **builder focused on turning ideas into deployed systems**.
+
+My work sits at the intersection of:
+- **AI / Machine Learning**
+- **Full-stack product development**
+- **Automation & real-world workflows**
+
+Beyond coding, I run:
+- **Inner Light** — modelling & events startup  
+- **Ed Studio** — photography & creative direction  
+
+I care about one thing:  
+👉 *Building systems that actually get used.*
+
+---
+
+## 🧠 What I Build
+
+- AI systems with **retrieval + reasoning (RAG pipelines)**
+- Multi-turn agent workflows (email parsing, scheduling, tutoring)
+- End-to-end platforms (frontend → backend → deployment)
+- Computer vision applications
+- Real-world automation systems for operations
 
 ---
 
@@ -16,17 +39,23 @@ I'm a software developer with a passion for clean code and creative problem-solv
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|---------|
-| **[MedSync]** | Healthcare management system developed during CGH internship for streamlined patient data handling | `React` `Node.js` `MongoDB` | ⭐ Featured |
-| **[Bird Identification App]** | AI-powered mobile app that identifies bird species through image recognition | `Python` `TensorFlow` `Flutter` | 🔄 Active |
-| **[MediAide]** | Computer vision system using OpenCV for automated pill tracking and medication adherence in elderly care | `Python` `OpenCV` `Machine Learning` | ✅ Complete |
+| **Scheduling & AI Workflow System** | Full-stack platform for doctors & students with AI email parsing (DeepSeek/Qwen), automated scheduling, and Microsoft Graph integration | `React` `Node.js` `MySQL` `LLMs` | 🚀 Production |
+| **AI Tutor** | RAG-based learning system with dynamic difficulty adjustment, reasoning scaffolds, and vector knowledge retrieval | `Python` `PyTorch` `FAISS` `React` | 🔥 Active |
+| **CX Intelligence Engine** | AI pipeline converting WhatsApp + feedback data into structured CX scores, classifications, and actionable insights | `Transformers` `Node.js` | 🔄 Active |
+| **Deepfake Detection (CViT)** | Hybrid CNN + Vision Transformer system for detecting deepfakes with benchmarking across multiple architectures | `PyTorch` `Transformers` | ✅ Complete |
+| **Medication Adherence System (MediAide)** | Computer vision system using MediaPipe + ONNX to track pill intake behavior | `Python` `OpenCV` `Android` | 🔬 Research |
+
 
 ### Skills & Technologies
 
 ```
-Languages:     JavaScript, Python, Java, C++, HTML/CSS
-Frameworks:    React, Node.js, Django, Express, Flask
-Databases:     MongoDB, PostgreSQL, MySQL
-Tools:         Git, Docker, AWS, Linux, VS Code
+Languages: Python, JavaScript (ES6+), C/C++, SQL
+Frontend: React, Next.js, Vite
+Backend: Node.js, Express, FastAPI
+AI/ML: PyTorch, Transformers, OpenCV, LangChain, RAG
+Databases: MySQL, PostgreSQL, Supabase
+Infra: Docker, Google Cloud Run
+Tools: Git, Figma, Fusion360
 ```
 
 ---
@@ -65,23 +94,27 @@ I'm a versatile photographer with expertise in architectural photography, landsc
 
 ## 🌐 Connect With Me
 
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/edward-tang-b33b581a9/)
-- **Portfolio Website**: [To Be Updated!](#)
-- **Photography Instagram**: [My Photography Instagram](https://www.instagram.com/ed.lenscraft/?hl=en)
-- **Email**: [Press here to contact me!](mailto:tang.zj.edward@gmail.com)
-- **Photography Portfolio**: [My Photography Website](https://ed-studio-chi.vercel.app/)
+- 💼 LinkedIn: https://www.linkedin.com/in/edward-tang-b33b581a9/
+- 📸 Ed Studio: https://ed-studio-chi.vercel.app/
+- 📧 Email: tang.zj.edward@gmail.com
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 Currently working on: Multiple projects
-- 🌱 Learning: Lots of things
-- 📷 Photography focus: Studio Concept Photography
-- 💼 Open to: Collaboration opportunities for photography, AI Developer jobs
+- ⚡ Building AI systems for real-world workflows (healthcare, CX, automation)
+- 🧠 Improving reliability of RAG & LLM pipelines
+- 🚀 Scaling Cortex Lab (AI consulting & product builds)
+- 📸 Expanding studio-level photography work
+
+---
+
+## 🧠 Philosophy
+
+> “AI is not the product. The system around it is.”
 
 ---
 
 <div align="center">
-  <i>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or discuss photography.</i>
+  <i>Always building. Always shipping.</i>
 </div>
