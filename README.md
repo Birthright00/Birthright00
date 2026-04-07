@@ -40,7 +40,7 @@ Here's what drives me:
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|---------|
 | **Scheduling & AI Workflow System** | Full-stack platform for doctors & students with AI email parsing (DeepSeek/Qwen), automated scheduling, and Microsoft Graph integration | `React` `Node.js` `MySQL` `LLMs` | 🚀 Production |
-| **AI Tutor** | RAG-based learning system with dynamic difficulty adjustment, reasoning scaffolds, and vector knowledge retrieval | `Python` `PyTorch` `FAISS` `React` | 🔥 Active |
+| **AI Tutor** | RAG-based learning system with dynamic difficulty adjustment, reasoning scaffolds, and vector knowledge retrieval | `Python` `PyTorch` `React` | 🔥 Active |
 | **CX Intelligence Engine** | AI pipeline converting WhatsApp + feedback data into structured CX scores, classifications, and actionable insights | `Transformers` `Node.js` | 🔄 Active |
 | **Deepfake Detection (CViT)** | Hybrid CNN + Vision Transformer system for detecting deepfakes with benchmarking across multiple architectures | `PyTorch` `Transformers` | ✅ Complete |
 | **Medication Adherence System (MediAide)** | Computer vision system using MediaPipe + ONNX to track pill intake behavior | `Python` `OpenCV` `Android` | 🔬 Research |
