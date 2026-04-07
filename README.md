@@ -19,11 +19,11 @@ Beyond coding, I run:
 - **Ed Studio** — photography & creative direction
 
 Here's what drives me:
-👉 *Building systems that actually get used.*
+*Building systems that actually get used.*
 
 ---
 
-## 🧠 What I Build
+## What I Like Building And Built
 
 - AI systems with **retrieval + reasoning (RAG pipelines)**
 - Multi-turn agent workflows (email parsing, scheduling, tutoring)
@@ -33,17 +33,17 @@ Here's what drives me:
 
 ---
 
-## 🚀 Coding Projects
+## Coding Projects
 
 ### Featured Repositories
 
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|---------|
-| **Scheduling & AI Workflow System** | Full-stack platform for doctors & students with AI email parsing (DeepSeek/Qwen), automated scheduling, and Microsoft Graph integration | `React` `Node.js` `MySQL` `LLMs` | 🚀 Production |
-| **AI Tutor** | RAG-based learning system with dynamic difficulty adjustment, reasoning scaffolds, and vector knowledge retrieval | `Python` `PyTorch` `React` | 🔥 Active |
-| **CX Intelligence Engine** | AI pipeline converting WhatsApp + feedback data into structured CX scores, classifications, and actionable insights | `Transformers` `Node.js` | 🔄 Active |
-| **Deepfake Detection (CViT)** | Hybrid CNN + Vision Transformer system for detecting deepfakes with benchmarking across multiple architectures | `PyTorch` `Transformers` | ✅ Complete |
-| **Medication Adherence System (MediAide)** | Computer vision system using MediaPipe + ONNX to track pill intake behavior | `Python` `OpenCV` `Android` | 🔬 Research |
+| **Scheduling & AI Workflow System** | Full-stack platform for doctors & students with AI email parsing (DeepSeek/Qwen), automated scheduling, and Microsoft Graph integration | `React` `Node.js` `MySQL` `LLMs` | Prototype |
+| **AI Tutor** | RAG-based learning system with dynamic difficulty adjustment, reasoning scaffolds, and vector knowledge retrieval | `Python` `PyTorch` `React` | Active (Pilot Testing) |
+| **CX Intelligence Engine** | AI pipeline converting WhatsApp + feedback data into structured CX scores, classifications, and actionable insights | `Transformers` `Node.js` | Active |
+| **Deepfake Detection (CViT)** | Hybrid CNN + Vision Transformer system for detecting deepfakes with benchmarking across multiple architectures | `PyTorch` `Transformers` |  Complete |
+| **Medication Adherence System (MediAide)** | Computer vision system using MediaPipe + ONNX to track pill intake behavior | `Python` `OpenCV` `Android` | Research |
 
 
 ### Skills & Technologies
@@ -90,10 +90,10 @@ I'm a versatile photographer with expertise in architectural photography, landsc
 
 ## 🎯 Current Focus
 
-- ⚡ Building AI systems for real-world workflows (healthcare, CX, automation)
-- 🧠 Improving reliability of RAG & LLM pipelines
-- 🚀 Scaling Cortex Lab (AI consulting & product builds)
-- 📸 Expanding studio-level photography work
+- Building AI systems for real-world workflows (healthcare, CX, automation)
+- Improving reliability of RAG & LLM pipelines
+- Scaling Cortex Lab (AI consulting & product builds)
+- Expanding studio-level photography work
 
 ---
 
